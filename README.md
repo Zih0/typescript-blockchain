@@ -1,1 +1,2 @@
-typescript-blockchain
+typescript로 간단한 블록체인 만들기.
+단순하게 인덱스,해쉬값,타임스탬프, 데이터만 구현
